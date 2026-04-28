@@ -58,5 +58,6 @@ Login Page
 **Profile Page**
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8f29c80a-575f-4aba-821f-de8c02019cf3" />
 
-**Author
-Suffisant Madhikarmi**
+**Author**
+
+**Suffisant Madhikarmi**
